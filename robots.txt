@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saintzzz.github.io/sitemap.xml
